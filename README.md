@@ -1,1 +1,3 @@
-# Harpinder-Singh_8927084
+Your Name: Harpinder Singh
+Project Title: Lab 3
+Student Id: 8927084
